@@ -12,3 +12,5 @@ Explored potential correlations that could help in better planning and investmen
 🔧 Tools Used: Python | Pandas | NumPy | Matplotlib | Seaborn
 
 ✨ Key Highlights: ✅ Cleaned and pre-processed real-world government data
+
+✅ Performed detailed Exploratory Data Analysis (EDA)
