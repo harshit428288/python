@@ -29,3 +29,4 @@ here are my objective on this topic
 *to determine scheme_construction_cost,scheme_machinery_cost,scheme_maintainence_cost
 *to find the construction_subsidy,machinery_subsidy
 *to analize water_distribution_method_name
+*to depict the trends on lifting_device_enrgy_source_name,horse_power_of_lifting_device,pump_operating_days_rabi_season
