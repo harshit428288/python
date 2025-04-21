@@ -28,3 +28,4 @@ It also deepened my appreciation of how data can inform smarter public infrastru
 here are my objective on this topic
 *to determine scheme_construction_cost,scheme_machinery_cost,scheme_maintainence_cost
 *to find the construction_subsidy,machinery_subsidy
+*to analize water_distribution_method_name
