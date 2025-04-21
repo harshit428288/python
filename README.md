@@ -20,3 +20,6 @@ Explored potential correlations that could help in better planning and investmen
 ✅ Identified missing values and handled them effectively for better model reliability
 
 🧠 Learning Outcomes: Working with real, complex datasets enhanced my skills in data cleaning, EDA, visualization, and understanding resource utilization patterns.
+
+It also deepened my appreciation of how data can inform smarter public infrastructure planning.
+
