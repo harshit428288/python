@@ -23,3 +23,4 @@ Explored potential correlations that could help in better planning and investmen
 
 It also deepened my appreciation of how data can inform smarter public infrastructure planning.
 
+🌍 Why It Matters: Surface lift irrigation is critical for sustainable agriculture in water-scarce regions — data can unlock better efficiency, equity, and impact on rural livelihoods.
