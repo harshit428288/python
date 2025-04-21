@@ -14,3 +14,5 @@ Explored potential correlations that could help in better planning and investmen
 ✨ Key Highlights: ✅ Cleaned and pre-processed real-world government data
 
 ✅ Performed detailed Exploratory Data Analysis (EDA)
+
+✅ Visualized average cost contributions through pie charts
