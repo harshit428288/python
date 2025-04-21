@@ -4,3 +4,5 @@ Excited to share my latest project where I explored the 6th Minor Irrigation Cen
 
 🌾 Project Goals:
 Analyzed the financial aspects: Construction, Machinery, and Maintenance Costs across schemes
+
+Visualized cost distribution to understand resource allocation
