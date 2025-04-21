@@ -16,3 +16,5 @@ Explored potential correlations that could help in better planning and investmen
 ✅ Performed detailed Exploratory Data Analysis (EDA)
 
 ✅ Visualized average cost contributions through pie charts
+
+✅ Identified missing values and handled them effectively for better model reliability
