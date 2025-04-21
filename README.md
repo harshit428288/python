@@ -8,3 +8,5 @@ Analyzed the financial aspects: Construction, Machinery, and Maintenance Costs a
 Visualized cost distribution to understand resource allocation
 
 Explored potential correlations that could help in better planning and investment strategies
+
+🔧 Tools Used: Python | Pandas | NumPy | Matplotlib | Seaborn
