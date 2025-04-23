@@ -32,3 +32,5 @@ here are my objective on this topic
 *to analize water_distribution_method_name
 *to depict the trends on lifting_device_enrgy_source_name,horse_power_of_lifting_device,pump_operating_days_rabi_season
 *to analize culturable_command_area,ipc_kharif_season,ipc_rabi_season,ipc_perennial_season
+
+done1
