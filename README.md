@@ -26,9 +26,10 @@ It also deepened my appreciation of how data can inform smarter public infrastru
 🌍 Why It Matters: Surface lift irrigation is critical for sustainable agriculture in water-scarce regions — data can unlock better efficiency, equity, and impact on rural livelihoods.
 
 
-here are my objective on this topic
+Here are my objective on this topic: 
 *to determine scheme_construction_cost,scheme_machinery_cost,scheme_maintainence_cost
 *to find the construction_subsidy,machinery_subsidy
 *to analize water_distribution_method_name
 *to depict the trends on lifting_device_enrgy_source_name,horse_power_of_lifting_device,pump_operating_days_rabi_season
 *to analize culturable_command_area,ipc_kharif_season,ipc_rabi_season,ipc_perennial_season
+This analysis provides valuable initial insights into the financial and operational aspects of Surface Lift Irrigation Schemes in West Bengal. The visualizations and findings can serve as a foundation for more in-depth studies and informed decision-making in the sector.
