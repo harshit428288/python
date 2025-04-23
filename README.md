@@ -26,7 +26,7 @@ It also deepened my appreciation of how data can inform smarter public infrastru
 🌍 Why It Matters: Surface lift irrigation is critical for sustainable agriculture in water-scarce regions — data can unlock better efficiency, equity, and impact on rural livelihoods.
 
 
-here are my objective on this topic
+Here are my objective on this topic: 
 *to determine scheme_construction_cost,scheme_machinery_cost,scheme_maintainence_cost
 *to find the construction_subsidy,machinery_subsidy
 *to analize water_distribution_method_name
